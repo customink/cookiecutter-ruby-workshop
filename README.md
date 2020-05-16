@@ -57,6 +57,14 @@ When prompted, paste in your key id and secret key from the steps above. I recom
 alias aws='docker run --rm -it --tty -v "${HOME}/.aws:/root/.aws" -v "${PWD}:/aws" "amazon/aws-cli"'
 ```
 
+Alternatively, you can install AWS CLI & SAM via Homebrew.
+
+```shell
+$ brew install awscli
+$ brew tap aws/tap
+$ brew install aws-sam-cli
+```
+
 Assuming you have run `configure` and set the alias. Is it working?
 
 ```shell
