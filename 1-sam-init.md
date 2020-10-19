@@ -10,7 +10,7 @@ To ease the development cycle for their own Lambda offering, AWS developed a too
 
 ## SAM Init
 
-To start a new SAM project, we are going to use a Docker container to run [`sam init`](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-cli-command-reference-sam-init.html) which leverages this Custom Ink [Cookiecutter Project Template](https://technology.customink.com/blog/2020/03/13/using-aws-sam-cookiecutter-project-templates-to-kickstart-your-ambda-projects-copy/) to kickstart a new project folder for you.
+To start a new SAM project, we are going to use a Docker container to run [`sam init`](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-cli-command-reference-sam-init.html) which leverages this Custom Ink [Cookiecutter Project Template](https://technology.customink.com/blog/2020/03/13/using-aws-sam-cookiecutter-project-templates-to-kickstart-your-ambda-projects/) to kickstart a new project folder for you.
 
 ⚡️⏩⚡️
 
