@@ -13,7 +13,7 @@ Want to go fast, make excellence, and read later? As you follow each section, fi
 1. [New Project with SAM Init](1-sam-init.md)
 2. [Setup & Deploy](2-setup-deploy.md)
 3. [Connecting Lambda to S3](3-connecting-lambda-to-s3.md)
-4. [Image Processing & Lambda Layers](4-reading-writing.md)
+4. [Image Processing & Lambda Layers](4-image-processing.md)
 5. [Resizer Code & Permissions](5-resizer-code.md)
 6. [Next Steps & Resources](6-resources.md)
 
